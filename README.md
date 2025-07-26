@@ -34,17 +34,6 @@ A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This cla
 
 ---
 
-📂 Project Structure
-
-simon-game/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
----
-
 ✅ Features
 
 -  Fully responsive and interactive UI
@@ -64,6 +53,6 @@ simon-game/
 
 🧑‍💻 Author
 
-Gourav Barwal
-📧 [gouravbarwal001@mail.com]
-🌐 https://github.com/Gouravjaat07
+ Gourav Barwal
+- 📧 [gouravbarwal001@mail.com]
+- 🌐 https://github.com/Gouravjaat07
