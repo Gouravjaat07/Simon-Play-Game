@@ -18,9 +18,9 @@ A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This cla
 
 🛠 Built With
 
-HTML
-CSS
-JavaScript (DOM Manipulation)
+-  HTML
+-  CSS
+-  JavaScript (DOM Manipulation)
 
 ---
 
@@ -47,18 +47,18 @@ simon-game/
 
 ✅ Features
 
-Fully responsive and interactive UI
-Dynamic level system
-Easy to understand and extend
+-  Fully responsive and interactive UI
+-  Dynamic level system
+-  Easy to understand and extend
 
 ---
 
 📚 Learning Outcome
 
-DOM manipulation
-Event handling
-Game logic using JavaScript
-Working with arrays and loops
+-  DOM manipulation
+-  Event handling
+-  Game logic using JavaScript
+-  Working with arrays and loops
 
 ---
 
