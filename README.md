@@ -5,14 +5,18 @@ A Simon Game using html, css and  Javascript
 
 A fun and interactive Simon Game built using HTML, CSS, and JavaScript. This classic memory game challenges players to remember and repeat a growing sequence of colors.
 
+
 🎮 Demo
 
-🔗 Live Demo
-<video controls src = "D:\Simon Game(1).mp4" height = "400px" width = "400px">
-> (Replace # with your GitHub Pages link if deployed)
+https://github.com/user-attachments/assets/da134f55-7a43-47d9-9c67-39fa6507be54
+
+---
+
 📸 Screenshot
 
-> (You can upload a screenshot of your project and rename it to screenshot.png)
+<img width="1837" height="884" alt="Simon Say Game Photo" src="https://github.com/user-attachments/assets/0b6da648-4bcf-42a3-b144-4c856ea8ca13" />
+ Screenshot
+
 
 ---
 
