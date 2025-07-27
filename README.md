@@ -12,11 +12,9 @@ https://github.com/user-attachments/assets/da134f55-7a43-47d9-9c67-39fa6507be54
 
 ---
 
-📸 Screenshot
+📸 Responsiveness
 
-<img width="1837" height="884" alt="Simon Say Game Photo" src="https://github.com/user-attachments/assets/0b6da648-4bcf-42a3-b144-4c856ea8ca13" />
- Screenshot
-
+https://github.com/user-attachments/assets/c6546a40-8b8f-49ec-9a45-c45c0527bdfc
 
 ---
 
