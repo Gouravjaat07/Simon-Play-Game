@@ -1,0 +1,84 @@
+body {
+    font-family: papyrus;
+    text-align: center;
+    background-color: bisque;    
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: -12px;
+}
+
+
+h1 {
+    color: darkred;
+    margin-top: -2px;
+}
+
+h2 {
+    margin-top: -10px;
+}
+
+.btn {
+    height: 160px;
+    width: 160px;
+    border: 10px solid black;
+    border-radius: 15%;
+    margin: 1.5rem;
+}
+
+.boxes {
+    margin-top: -25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    background-color: rgb(215, 56, 88);
+}
+.yellow {
+    background-color:coral;
+}
+.green {
+    background-color: teal;
+}
+.purple {
+    background-color: cornflowerblue;
+}
+
+.flash {
+    background-color: white;
+}
+.userflash {
+    background-color: blueviolet;
+}
+
+.gameOver {
+    background-color: red;
+}
+
+.nextLevel {
+    background-color: darkgreen;
+}
+
+.pause {
+    background-color: bisque;
+}
+
+@media (min-width: 332px) and (max-width: 430px) {
+    .btn {
+    height: 130px;
+    width: 130px;
+    border: 10px solid black;
+    border-radius: 15%;
+    margin: 1rem;
+}
+}
+
+@media (min-width: 0px) and (max-width: 332px) {
+    .boxes {
+        display: flex;
+        flex-direction: column;
+    }
+}    
